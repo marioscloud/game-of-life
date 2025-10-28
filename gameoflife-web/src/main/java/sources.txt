@@ -1,0 +1,2 @@
+./com/wakaleo/gameoflife/webtests/controllers/GameController.java
+./com/wakaleo/gameoflife/webtests/controllers/HomePageController.java
